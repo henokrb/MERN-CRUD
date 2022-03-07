@@ -1,8 +1,8 @@
 # 🤘 MERN Stack CRUD Application
 
-Free and open-source MERN Stack CRUD Application built with React V17+, RRDv6+, Node.js, Express.js MongoDB and Mongoose ODM. Developed with ❤️ by [Henok R. Bedassa](https://henok.us/). If you love my project please star ⭐️ my repo!
+Free and open-source MERN Stack CRUD Application built with React v17+, RRDv6+, Node.js, Express.js MongoDB and Mongoose ODM. Developed with ❤️ by [Henok R. Bedassa](https://henok.us/). If you love my project please star ⭐️ my repo!
 
-**You can import the JSON File named 'Crud' to your MongoDB. You will find it in the Server Folder**
+**You can import the JSON File named 'Cruds' to your MongoDB. You will find it in the Server Folder**
 
 [Download](https://github.com/jackbalageru/MERN-CRUD) | [Developer Portfolio](https://henok.us)
 
@@ -25,18 +25,25 @@ This is an optional Grid View
 - Divided to 4 Cols
 - Clickabel Phone and Web URL
 
-[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Col_Card_View.png)](https://henok.us/)
+[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Grid_View.png)](https://henok.us/)
 
 ## List View
 
-This is an optional Grid View
+This is an optional List View
 
-- Divided to 4 Cols
 - Clickabel Phone and Web URL
 
-[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Row_Card_View.png)](https://henok.us/)
+[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_List_View.png)](https://henok.us/)
 
-## Instalation
+## Details View
+
+Details view by Id
+
+- Clickabel Phone and Web URL
+
+[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Details_Page.png)](https://henok.us/)
+
+## Installation
 
 1. Clone repository
 
@@ -95,7 +102,7 @@ cd server
 3. Import the following file to your MongoDB
 
 ```shell
-Crud
+Cruds
 ```
 
 ## Support
