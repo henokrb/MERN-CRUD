@@ -35,7 +35,7 @@ This is an optional List View
 
 [![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Row_Card_View.png)](https://henok.us/)
 
-## Instalation
+## Installation
 
 1. Clone repository
 
