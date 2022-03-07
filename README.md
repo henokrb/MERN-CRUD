@@ -2,7 +2,7 @@
 
 Free and open-source MERN Stack CRUD Application built with React v17+, RRDv6+, Node.js, Express.js MongoDB and Mongoose ODM. Developed with ❤️ by [Henok R. Bedassa](https://henok.us/). If you love my project please star ⭐️ my repo!
 
-**You can import the JSON File named 'Crud' to your MongoDB. You will find it in the Server Folder**
+**You can import the JSON File named 'Cruds' to your MongoDB. You will find it in the Server Folder**
 
 [Download](https://github.com/jackbalageru/MERN-CRUD) | [Developer Portfolio](https://henok.us)
 
@@ -94,7 +94,7 @@ cd server
 3. Import the following file to your MongoDB
 
 ```shell
-Crud
+Cruds
 ```
 
 ## Support
