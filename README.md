@@ -29,9 +29,8 @@ This is an optional Grid View
 
 ## List View
 
-This is an optional Grid View
+This is an optional List View
 
-- Divided to 4 Cols
 - Clickabel Phone and Web URL
 
 [![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Row_Card_View.png)](https://henok.us/)
