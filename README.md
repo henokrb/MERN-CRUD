@@ -25,7 +25,7 @@ This is an optional Grid View
 - Divided to 4 Cols
 - Clickabel Phone and Web URL
 
-[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Col_Card_View.png)](https://henok.us/)
+[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Grid_View.png)](https://henok.us/)
 
 ## List View
 
@@ -33,7 +33,15 @@ This is an optional List View
 
 - Clickabel Phone and Web URL
 
-[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Row_Card_View.png)](https://henok.us/)
+[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_List_View.png)](https://henok.us/)
+
+## Details View
+
+Details view by Id
+
+- Clickabel Phone and Web URL
+
+[![image](https://atlanticplc.com/wp-content/uploads/mern-crud/CRUD_Details_Page.png)](https://henok.us/)
 
 ## Installation
 
