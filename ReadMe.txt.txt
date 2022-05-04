@@ -1,1 +1,2 @@
-This is Full Stack MERN Stack CRUD Application
+This is Full Stack MERN Stack CRUD PWA Application
+
