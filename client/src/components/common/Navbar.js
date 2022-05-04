@@ -33,18 +33,18 @@ const Navbar = () => {
 						<NavLink
 							className="nav-link"
 							activeClassName="active"
-							to="/cruds/card-vertical"
+							to="/cruds/grid-view"
 						>
-							Card View - Vertical
+							Grid View
 						</NavLink>
 					</li>
 					<li className="nav-item">
 						<NavLink
 							className="nav-link"
 							activeClassName="active"
-							to="/cruds/card-horizontal"
+							to="/cruds/list-view"
 						>
-							Card View - Horizontal
+							List View
 						</NavLink>
 					</li>
 				</ul>
