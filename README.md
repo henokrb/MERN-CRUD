@@ -1,10 +1,24 @@
-# 🤘 MERN Stack CRUD Application
+# 🤘 MERN Stack CRUD Progressive Web Application (PWA)
 
-Free and open-source MERN Stack CRUD Application built with React v17+, RRDv6+, Node.js, Express.js MongoDB and Mongoose ODM. Developed with ❤️ by [Henok R. Bedassa](https://henok.us/). If you love my project please star ⭐️ my repo!
+MERN Stack CRUD **Progressive Web Application (PWA)** built with React v17+, RRDv6+, Node.js, Express.js MongoDB and Mongoose ODM.
 
 **You can import the JSON File named 'Cruds' to your MongoDB. You will find it in the Server Folder**
 
 [Download](https://github.com/jackbalageru/MERN-CRUD) | [Developer Portfolio](https://henok.us)
+
+## Progressive Web App (PWA)
+
+**Why PWA?**
+
+- Works offline
+- Works on slower connections
+- Installable on Mobile Phones, Tabs and Desktop
+- Cross Platform (work on all browsers/systems)
+- Discoverable (on the search engines)
+- Responsive
+- Fast and lightweight
+
+**Developed with ❤️ by [Henok R. Bedassa](https://henok.us/). If you love my project please star ⭐️ my repo!**
 
 ## Table View
 
