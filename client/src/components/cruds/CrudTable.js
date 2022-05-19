@@ -30,8 +30,9 @@ function CrudTable() {
 				</h2>
 				<hr />
 			</div>
-
-			<table className="table responsive container">
+		
+                        <div className="table-responsive">
+			<table className="table container">
 				<thead>
 					<tr>
 						<th>Name</th>
@@ -82,6 +83,7 @@ function CrudTable() {
 						})}
 				</tbody>
 			</table>
+			</div>
 		</div>
 	);
 }
