@@ -32,7 +32,7 @@ function CrudTable() {
 			</div>
 		
                         <div className="table-responsive">
-			<table className="table container">
+			<table className="table riped  table-hover table-bordered container">
 				<thead>
 					<tr>
 						<th>Name</th>
