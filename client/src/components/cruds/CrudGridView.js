@@ -37,7 +37,7 @@ function CrudGridView() {
 								style={{ width: 250, margin: 30 }}
 								key={crud._id}
 							>
-								<div class="card-header">
+								<div className="card-header">
 									<h5 className="card-title">
 										<Link to={`/cruds/${crud._id}`} className="link-line">
 											{crud.companyName}
@@ -62,7 +62,7 @@ function CrudGridView() {
 										</small>
 									</p>
 								</div>
-								<div class="card-footer d-flex align-items-center">
+								<div className="card-footer d-flex align-items-center">
 									<Link
 										to={`/cruds/${cruds._id}/edit`}
 										className="btn btn-primary"

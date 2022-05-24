@@ -4,7 +4,10 @@
 	"web": "henok.us",
 	"email": "jackbalageru@yahoo.com",
 	"version": "0.1.0",
+	"homepage": ".",
 	"private": true,
+	"main": "index.js",
+	"proxy": "http://localhost:8080",
 	"dependencies": {
 		"@nkalpak/react-ios-pwa-prompt": "^1.8.7",
 		"@testing-library/jest-dom": "^5.16.2",
@@ -15,6 +18,7 @@
 		"bootstrap-icons": "^1.8.1",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
+		"react-ios-pwa-prompt": "^1.8.4",
 		"react-router-dom": "^6.2.2",
 		"react-scripts": "5.0.0",
 		"web-vitals": "^2.1.4",
@@ -35,7 +39,9 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject"
+		"eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
 	},
 	"eslintConfig": {
 		"extends": [
@@ -55,8 +61,6 @@
 			"last 1 safari version"
 		]
 	},
-	"proxy": "http://localhost:8080",
 	"description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-	"main": "index.js",
 	"license": "ISC"
 }

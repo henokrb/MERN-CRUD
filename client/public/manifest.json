@@ -1,11 +1,12 @@
 {
 	"short_name": "MERN CRUD Henok",
-	"name": "MERN CRUD Application",
+	"name": "MERN CRUD App - Henny",
 	"icons": [
 		{
 			"src": "favicon.ico",
-			"sizes": "64x64 32x32 24x24 16x16",
-			"type": "image/x-icon"
+			"sizes": "48x48",
+			"type": "image/x-icon",
+			"purpose": "any maskable"
 		},
 		{
 			"src": "logo192.png",

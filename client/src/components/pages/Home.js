@@ -18,11 +18,9 @@ function Home() {
 			</p>
 			<p>
 				<b>Developed By</b>: Henok R. Bedassa
-				<p>
-					<a href={link} target={target}>
-						henok.us
-					</a>
-				</p>
+				<a href={link} target={target}>
+					henok.us
+				</a>
 			</p>
 		</div>
 	);

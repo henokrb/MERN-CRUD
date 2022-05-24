@@ -5,6 +5,7 @@ import App from "./App";
 import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
 import reportWebVitals from "./reportWebVitals";
 import PWAPrompt from "react-ios-pwa-prompt";
+import "../node_modules/bootstrap/dist/js/bootstrap.min.js";
 
 ReactDOM.render(
 	<React.StrictMode>

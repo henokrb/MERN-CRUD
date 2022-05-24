@@ -3,7 +3,7 @@ const Footer = () => {
 	const target = "_blank";
 
 	return (
-		<div className="container">
+		<div className="container mt-4">
 			Copyright © <small>{new Date().getFullYear()}</small> Henok R. Bedassa{" "}
 			<a href={link} target={target}>
 				henok.us

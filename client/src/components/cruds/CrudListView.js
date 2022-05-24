@@ -42,7 +42,7 @@ function CrudListView() {
 								<h5>Logo</h5>
 							</div>
 							<div className="col-md-8">
-								<div class="card-header">
+								<div className="card-header">
 									<h5 className="card-title">
 										<Link to={`/cruds/${crud._id}`} className="link-line">
 											{crud.companyName}
@@ -67,7 +67,7 @@ function CrudListView() {
 										</small>
 									</p>
 
-									<div class="card-footer">
+									<div className="card-footer">
 										<Link
 											to={`/cruds/${crud._id}/edit`}
 											className="btn btn-primary"

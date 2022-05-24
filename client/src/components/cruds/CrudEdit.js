@@ -28,6 +28,7 @@ function CrudEdit(props) {
 			}
 			updateCrud();
 		},
+		// eslint-disable-next-line react-hooks/exhaustive-deps
 		[props]
 	);
 

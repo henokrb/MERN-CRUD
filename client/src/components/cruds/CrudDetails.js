@@ -20,6 +20,7 @@ function CrudDetails(props) {
 			}
 			getCrudById();
 		},
+		// eslint-disable-next-line react-hooks/exhaustive-deps
 		[props]
 	);
 
@@ -52,8 +53,9 @@ function CrudDetails(props) {
 					{crud.link}
 				</a>
 			</p>
-			<p>
-				<b>Description</b>: <p align="justify">{crud.description}</p>
+			<p align="justify">
+				<b>Description</b>: {crud.description}
+				{/* <b>Description</b>: <p align="justify">{crud.description}</p> */}
 			</p>
 			<p>
 				<small>
