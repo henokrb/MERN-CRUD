@@ -1,4 +1,4 @@
-# 🤘 MERN Stack CRUD Progressive Web Application (PWA)
+# 🤘 MERN CRUD app
 
 MERN Stack CRUD built with React v17+, RRDv6+, Node.js, Express.js MongoDB and Mongoose ODM.
 
