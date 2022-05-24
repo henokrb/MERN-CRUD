@@ -4,7 +4,7 @@
 	"web": "henok.us",
 	"email": "jackbalageru@yahoo.com",
 	"description": "",
-	"main": "server.js",
+	"main": "node server.js",
 	"dependencies": {
 		"axios": "^0.26.0",
 		"cors": "^2.8.5",
