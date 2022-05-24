@@ -21,7 +21,7 @@ function App() {
 				<Routes>
 					<Route exact path="/" element={<Home />} />
 					<Route exact path="/api/" element={<Home />} />
-					<Route exact path="/cruds" element={<CrudTable />} />					
+					<Route exact path="/cruds" element={<CrudTable />} />
 					<Route exact path="/cruds/list-view" element={<CrudListView />} />
 					<Route exact path="/cruds/grid-view" element={<CrudGridView />} />
 					<Route exact path="/cruds/new" element={<CrudAdd />} />

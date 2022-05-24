@@ -34,7 +34,7 @@ function CrudDetails(props) {
 	}
 
 	return (
-		<div className="container">
+		<div className="container mr-2">
 			<h2>{crud.companyName}</h2>
 
 			<p>

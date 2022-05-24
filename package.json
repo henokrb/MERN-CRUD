@@ -1,13 +1,12 @@
 {
 	"name": "client MERN CRUD",
 	"author": "Henok R. Bedassa",
-	"web": "henok.us",
 	"email": "jackbalageru@yahoo.com",
 	"version": "0.1.0",
-	"homepage": ".",
 	"private": true,
+	"homepage": ".",
 	"main": "index.js",
-	"proxy": "http://localhost:8080",
+	"proxy": "https://mern-crud-henny.herokuapp.com",
 	"dependencies": {
 		"@nkalpak/react-ios-pwa-prompt": "^1.8.7",
 		"@testing-library/jest-dom": "^5.16.2",
