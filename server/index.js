@@ -25,3 +25,5 @@ app.use("/api/cruds", crudRoutes);
 
 // listening on port
 app.listen(PORT, () => console.log(`Listening on port ${PORT}...`));
+
+module.exports = app;
