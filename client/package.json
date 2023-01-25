@@ -7,7 +7,7 @@
 	"private": true,
 	"homepage": ".",
 	"main": "index.js",
-	"proxy": "https://mern-crud-node-api.vercel.app/api/cruds",
+	"proxy": "https://mern-crud-node-api.vercel.app/api/",
 	"dependencies": {
 		"@nkalpak/react-ios-pwa-prompt": "^1.8.7",
 		"@testing-library/jest-dom": "^5.16.2",
